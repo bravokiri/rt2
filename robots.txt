@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /video/
+
+Sitemap: https://rdt32.ru/sitemap.xml
+Host: https://rdt32.ru

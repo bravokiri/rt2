@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Ремдортехника">
+  <rect width="48" height="48" rx="3" fill="#E2571B"/>
+  <path d="M5 33h38v4H5z" fill="#FFFFFF"/>
+  <path d="M10 20h22l5 7H10z" fill="#FFFFFF"/>
+  <rect x="13" y="10" width="11" height="8" fill="#FFFFFF"/>
+  <circle cx="16" cy="41" r="4" fill="#FFFFFF"/>
+  <circle cx="33" cy="41" r="4" fill="#FFFFFF"/>
+</svg>
